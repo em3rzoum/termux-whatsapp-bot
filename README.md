@@ -1,6 +1,8 @@
 # NIKE O SUPREMO
 BOT WHATSAPP TERMUX BY EM3RZOUM 
 
+<img src="http://img0.reactor.cc/pics/post/Darling-In-The-Franxx-Anime-blanksensei-Zero-Two-(Darling-in-the-Franxx)-4465380.gif" width="300" >
+
 
 
 # INSTALAÇÃO 
