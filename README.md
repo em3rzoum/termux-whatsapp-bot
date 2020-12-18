@@ -9,11 +9,16 @@ BOT WHATSAPP TERMUX BY EM3RZOUM
 ```bash
 
 > termux-setup-storage
-> pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
-> apt update && apt upgrade
+> pkg install git
+pkg install tesseract
+pkg install wget
+pkg install ffmpeg
+pkg install nodejs
+apt update && apt upgrade
+
 > git clone https://github.com/em3rzoum/termux-whatsapp-bot
 > cd termux-whatsapp-bot
-> npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && npm audit fix && npm fund && node index.js
 > Basta escanear o código qr e está pronto...
 ```
 
