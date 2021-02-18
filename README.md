@@ -11,10 +11,7 @@ BOT WHATSAPP TERMUX BY EM3RZOUM
 > termux-setup-storage
 
 > pkg install git
-pkg install tesseract
-pkg install wget
-pkg install ffmpeg
-pkg install nodejs
+pkg install tesseract -y && pkg install wget -y && pkg install ffmpeg -y && pkg install nodejs -y
 apt update && apt upgrade
 
 > git clone https://github.com/em3rzoum/termux-whatsapp-bot
